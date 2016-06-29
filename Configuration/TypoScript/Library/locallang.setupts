@@ -2,7 +2,7 @@ plugin.tx_themes {
 	_LOCAL_LANG {
 		default {
 			breadcrumb_label = You are here
-			new_label = Neues Label
+			new_label = New label
 		}
 		de {
 			breadcrumb_label = Sie sind hier
